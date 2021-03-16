@@ -6,7 +6,7 @@
   </div>
 </template>
 
-<script setup>
+<script>
 import HelloWorld from './components/HelloWorld.vue'
 import JsxDemo from './components/JsxDemo.vue';
 
